@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<info>
+    <id>enotificator</id>
+    <name>Event Notificator</name>
+    <summary>Event Notificator for actions with files and folders to ownCloud</summary>
+    <description>
+        Event Notificator for actions with files and folders
+    </description>
+    <licence>GPLv2</licence>
+    <author>Dmitry Vasilev</author>
+    <version>0.1.0</version>
+    <namespace>Notificator</namespace>
+    <documentation>
+        <developer>https://github.com/varahi/enotificator/blob/master/README.md</developer>
+    </documentation>
+    <screenshot></screenshot>
+    <category>tools</category>
+    <website>h</website>
+    <bugs></bugs>
+    <repository type="git">https://github.com/varahi/enotificator.git</repository>
+    <dependencies>
+        <owncloud min-version="10" max-version="10"/>
+    </dependencies>
+    <default_enable />
+</info>
