@@ -9,7 +9,7 @@
     <licence>GPLv2</licence>
     <author>Dmitry Vasilev</author>
     <version>0.1.0</version>
-    <namespace>Notificator</namespace>
+    <namespace>Enotificator</namespace>
     <documentation>
         <developer>https://github.com/varahi/enotificator/blob/master/README.md</developer>
     </documentation>
