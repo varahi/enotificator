@@ -21,5 +21,8 @@
     <dependencies>
         <owncloud min-version="10" max-version="10"/>
     </dependencies>
+    <settings>
+        <admin>OCA\Enotificator\AdminPanel</admin>
+    </settings>
     <default_enable />
 </info>
